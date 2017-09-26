@@ -4,4 +4,8 @@ Git has a multable index called stage.
 Git tracks changes of files.
 test to discard changed.
 
-Create a new branch is quick & simple.
+<<<<<<< HEAD
+Create a new branch is quick and simple.
+=======
+Create a new branch is quick and simple.
+>>>>>>> feature1
